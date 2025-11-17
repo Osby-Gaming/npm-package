@@ -1,2 +1,2 @@
-# find-program
-Find installed program paths on windows (for now only windows)
+# npm-package
+Generic config for creating an npm-package.
